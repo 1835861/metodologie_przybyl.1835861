@@ -1,5 +1,5 @@
 
-# fabbricasemantica_lucas.1835861
+# fabbricasemantica_lucas
 Questo progetto ha l’obiettivo di creare una piattaforma collaborativa di annotazione e validazione di dati linguistici e visuali.
 L'utente una volta essersi registrato ed effetuato il login potra accedere alla home dove verranno visualizzate diverse pagine coinvolte
 nell'interazione con l'utente, quest'ultimo potrà effettuare diverse operazioni 
