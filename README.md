@@ -17,4 +17,4 @@ una volta effettuato l’accesso alla piattaforma, resti autenticato fino al log
 L’accesso alle pagine di annotazione e validazione sarà quindi consentito ai soli utenti autenticati.
 tutti i file relativi al backend : gestione database, connessione server, gestione dati degli utenti si trova nel percorso -> src/it/uniroma1/fabbricasemantica/servlet
 
-Infine, nella directory src/it/uniroma1/fabbricasemantica/data si trova l'implementazione del Data Provider il quale fa uso della libreria net.sf.extjwnl.data...le pagine Words.Java e WordProvider.Java contengono rispettivamente la selezione di un dizionario di parole e la loro gestione(le specifiche di ogni metodo vengono descritte nei commenti del codice)
+Infine, nella directory src/it/uniroma1/fabbricasemantica/data si trova l'implementazione del Data Provider il quale fa uso della libreria net.sf.extjwnl.data...le pagine Words.Java e WordProvider.Java contengono rispettivamente la selezione di un dizionario di parole e la loro gestione(le relative specifiche di ogni metodo vengono descritte nei commenti del codice)
